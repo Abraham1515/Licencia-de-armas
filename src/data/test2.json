@@ -1,0 +1,685 @@
+{
+  "titulo": "Tema II - Categoría de las armas",
+  "thumbnail": "img/tema2.jpg",
+  "preguntas": [
+    {
+      "enunciado": "La clasificación de un arma dentro de una categoría, se determina en base a:",
+      "opciones": [
+        "Su grado de peligrosidad",
+        "Sus características, destino o utilización y a veces por la licencia que la ampare",
+        "Ambas respuestas son correctas"
+      ],
+      "imagen": "img/2.1.jpg",
+      "respuesta": 3
+    },
+    {
+      "enunciado": "Las ballestas, incluidas en la 7ª categoría, son armas jurídicamente asimiladas a escopetas, ¿sería correcto el documentarlas con licencia “D”?",
+      "opciones": [
+        "Sí",
+        "Documentarlas como de la 3ª.1 categoría",
+        "No"
+      ],
+      "imagen": "img/2.2.jpg",
+      "respuesta": 3
+    },
+    {
+      "enunciado": "Las ballestas, son armas jurídicamente asimiladas a escopetas, ¿es de aplicación el mismo criterio a los arcos?",
+      "opciones": [
+        "No",
+        "Solo a los perfeccionados",
+        "Sí. Por estar incluidos en la categoría 7ª"
+      ],
+      "imagen": "img/2.3.jpg",
+      "respuesta": 1
+    },
+    {
+      "enunciado": "¿Qué instrumentos no especificados expresamente, están prohibidos en el Reglamento de Armas?",
+      "opciones": [
+        "Los especialmente peligrosos para la integridad física de las personas",
+        "Los que tengan puntas de flecha",
+        "Ambas respuestas son verdaderas"
+      ],
+      "imagen": "img/2.4.jpg",
+      "respuesta": 1
+    },
+    {
+      "enunciado": "Según el Reglamento de Armas, un “Arma de fuego corta” es:",
+      "opciones": [
+        "Aquella cuyo cañón no exceda de 20 centímetros o cuya longitud total no exceda de 60 centímetros",
+        "Aquella cuyo cañón no exceda de 30 centímetros o cuya longitud total no exceda de 60 centímetros",
+        "Aquella cuyo cañón no exceda de 30 centímetros o cuya longitud total no exceda de 80 centímetros"
+      ],
+      "imagen": "img/2.5.jpg",
+      "respuesta": 2
+    },
+    {
+      "enunciado": "Un arma de fuego larga, se define como:",
+      "opciones": [
+        "Cualquier arma de fuego que no sea corta",
+        "El arma de más de 30 cm. de longitud total",
+        "El arma que no excede su cañón de 30 cm."
+      ],
+      "imagen": "img/2.6.jpg",
+      "respuesta": 1
+    },
+    {
+      "enunciado": "Una escopeta, con rayas en el cañón para facilitar el plomeo, aunque esté marcada con punzón de escopeta por un Banco de Pruebas, ¿es un arma de fuego larga rayada para caza mayor?",
+      "opciones": [
+        "Depende de la licencia de armas que la ampara",
+        "Sí. Por estar incluida en la categoría 2ª.2",
+        "No"
+      ],
+      "imagen": "img/2.7.jpg",
+      "respuesta": 3
+    },
+    {
+      "enunciado": "Un arma de fuego larga, de ánima lisa, que no es escopeta, ¿podría clasificarse en la 3ª categoría?",
+      "opciones": [
+        "Sí",
+        "No, por ser un arma clasificada en la 1ª categoría",
+        "Depende del proyectil"
+      ],
+      "imagen": "img/2.8.jpg",
+      "respuesta": 1
+    },
+    {
+      "enunciado": "Un arma de fuego larga, de ánima lisa, que no es escopeta, ¿podría clasificarse en la 2ª categoría?",
+      "opciones": [
+        "Sí",
+        "No, por ser un arma clasificada en la 3ª categoría",
+        "Depende del proyectil"
+      ],
+      "imagen": "img/2.8.jpg",
+      "respuesta": 2
+    },
+    {
+      "enunciado": "Las armas reglamentadas, se clasifican en:",
+      "opciones": [
+        "Nueve categorías",
+        "Seis categorías",
+        "Diez categorías"
+      ],
+      "imagen": "img/2.9.jpg",
+      "respuesta": 1
+    },
+    {
+      "enunciado": "¿En qué categoría están incluidas las pistolas semiautomáticas?",
+      "opciones": [
+        "En la 3ª",
+        "En la 2ª",
+        "En la 1ª"
+      ],
+      "imagen": "img/2.10.jpg",
+      "respuesta": 3
+    },
+    {
+      "enunciado": "Un arma corta de fuego, de un solo tiro, del calibre 22, ¿en qué categoría está incluida?",
+      "opciones": [
+        "4ª",
+        "1ª",
+        "6ª"
+      ],
+      "imagen": "img/2.11.jpg",
+      "respuesta": 2
+    },
+    {
+      "enunciado": "Un revólver, de 20 centímetros de cañón y del calibre 38, ¿a qué categoría pertenece?",
+      "opciones": [
+        "No existe ese tipo de arma",
+        "A la 1ª categoría",
+        "A la 2ª categoría"
+      ],
+      "imagen": "img/2.12.jpg",
+      "respuesta": 2
+    },
+    {
+      "enunciado": "¿En qué categoría está clasificada una escopeta de caza, con cañón estriado adaptable, con recámara para cartuchos metálicos?",
+      "opciones": [
+        "En la 1ª categoría",
+        "En la 2ª categoría",
+        "En la 3ª categoría"
+      ],
+      "imagen": "img/2.13.jpg",
+      "respuesta": 2
+    },
+    {
+      "enunciado": "Además de las armas de fuego largas rayadas para vigilancia y guardería, ¿qué otras armas están incluidas en la 2ª categoría?",
+      "opciones": [
+        "Las pistolas",
+        "Las ballestas",
+        "Los cañones estriados adaptables a escopetas de caza con recámara para cartuchos metálicos no clasificados como de guerra"
+      ],
+      "imagen": "img/2.14.jpg",
+      "respuesta": 3
+    },
+    {
+      "enunciado": "Además de las armas de fuego largas rayadas para vigilancia y guardería, ¿qué otras armas están incluidas en la 2ª categoría?",
+      "opciones": [
+        "Las armas de fuego largas rayadas utilizables para caza mayor",
+        "Las pistolas",
+        "Las ballestas"
+      ],
+      "imagen": "img/2.15.jpg",
+      "respuesta": 1
+    },
+    {
+      "enunciado": "Los cañones estriados adaptables a escopetas de caza, con recámara para cartuchos metálicos, no clasificados como armas de guerra, ¿en qué categoría están incluidos?",
+      "opciones": [
+        "En la 2ª categoría",
+        "En la 3ª categoría",
+        "En la 4ª categoría"
+      ],
+      "imagen": "img/2.14.jpg",
+      "respuesta": 1
+    },
+    {
+      "enunciado": "¿En qué categoría están clasificadas las escopetas?",
+      "opciones": [
+        "Categoría 3ª.1",
+        "Categoría 3ª.2",
+        "Categoría 2ª.2"
+      ],
+      "imagen": "img/1.40.jpg",
+      "respuesta": 2
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes armas pertenece a la 2ª categoría?",
+      "opciones": [
+        "Las armas de fuego largas rayadas utilizadas para caza mayor",
+        "Las armas de fuego largas para vigilancia y guardería",
+        "Las dos anteriores son correctas"
+      ],
+      "imagen": "img/2.15.jpg",
+      "respuesta": 3
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes armas pertenece a la 3ª categoría?",
+      "opciones": [
+        "Las escopetas",
+        "Armas largas rayadas del calibre 5,6 mm para tiro deportivo",
+        "Las dos anteriores son correctas"
+      ],
+      "imagen": "img/1.40.jpg",
+      "respuesta": 3
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes armas pertenece a la 2ª categoría?",
+      "opciones": [
+        "Las escopetas",
+        "Las ballestas",
+        "Armas largas rayadas"
+      ],
+      "imagen": "img/2.16.jpg",
+      "respuesta": 3
+    },
+    {
+      "enunciado": "¿A qué categoría pertenecen las armas largas rayadas del calibre 5,6 mm, para tiro deportivo?",
+      "opciones": [
+        "A la 3ª categoría",
+        "A la 4ª categoría",
+        "A la 5ª categoría"
+      ],
+      "imagen": "img/2.17.jpg",
+      "respuesta": 1
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes armas pertenece a la 3ª categoría?",
+      "opciones": [
+        "Las escopetas",
+        "Los revólveres",
+        "Los arcos"
+      ],
+      "imagen": "img/2.18.jpg",
+      "respuesta": 1
+    },
+    {
+      "enunciado": "Una carabina de aire comprimido, de repetición, que dispara proyectiles cuya energía en la boca de fuego excede de 24,2 julios, ¿en qué categoría está clasificada?",
+      "opciones": [
+        "En la 4ª.1",
+        "No está clasificada en ninguna categoría",
+        "En la 3ª.3"
+      ],
+      "imagen": "img/2.19.jpg",
+      "respuesta": 3
+    },
+    {
+      "enunciado": "¿En qué categoría sería incluida un arma larga rayada del calibre 5,6 mm (.22 americano), de percusión anular, semiautomática, para tiro deportivo?",
+      "opciones": [
+        "3ª categoría",
+        "4ª categoría",
+        "2ª categoría"
+      ],
+      "imagen": "img/2.20.jpg",
+      "respuesta": 1
+    },
+    {
+      "enunciado": "Los revólveres de doble acción, accionados por aire u otro gas comprimido, no asimilados a escopetas, ¿en qué categoría están incluidos?",
+      "opciones": [
+        "En la 4ª.1",
+        "En la 1ª",
+        "En la 3ª.3"
+      ],
+      "imagen": "img/2.21.jpg",
+      "respuesta": 1
+    },
+    {
+      "enunciado": "Las carabinas de ánima lisa o rayada, de un solo tiro, accionadas por aire u otro gas comprimido, no asimiladas a escopetas, ¿a qué categoría pertenecen?",
+      "opciones": [
+        "A la 3ª.2",
+        "A la 4ª.2",
+        "A la 5ª.2"
+      ],
+      "imagen": "img/2.22.jpg",
+      "respuesta": 2
+    },
+    {
+      "enunciado": "Los revólveres de acción simple, accionados por aire u otro gas comprimido, no asimilados a escopetas, ¿en qué categoría están clasificados?",
+      "opciones": [
+        "En la 3ª.2",
+        "En la 4ª.2",
+        "En la 5ª.2"
+      ],
+      "imagen": "img/2.23.jpg",
+      "respuesta": 2
+    },
+    {
+      "enunciado": "Una carabina de aire comprimido, de repetición, que dispara proyectiles cuya energía en la boca de fuego <b>NO</b> excede de 24.2 julios ¿en qué categoría está clasificada?",
+      "opciones": [
+        "En la 4ª.1",
+        "No está clasificada en ninguna categoría",
+        "En la 3ª.3"
+      ],
+      "imagen": "img/2.24.jpg",
+      "respuesta": 1
+    },
+    {
+      "enunciado": "¿En qué categoría están clasificadas las armas blancas, en general?",
+      "opciones": [
+        "En la 5ª",
+        "En la 6ª",
+        "En la 7ª"
+      ],
+      "imagen": "img/2.25.jpg",
+      "respuesta": 1
+    },
+    {
+      "enunciado": "Un rifle semiautomático cuyo cargador admite cinco cartuchos, ¿es arma prohibida a particulares?",
+      "opciones": [
+        "No",
+        "Sí",
+        "Sí, siempre que se utilice para cazar"
+      ],
+      "imagen": "img/2.26.jpg",
+      "respuesta": 1
+    },
+    {
+      "enunciado": "¿En qué categoría se encuentran clasificadas las ballestas?",
+      "opciones": [
+        "Categoría 5ª.2",
+        "Categoría 7ª.2",
+        "Categoría 4ª.2"
+      ],
+      "imagen": "img/2.2.jpg",
+      "respuesta": 2
+    },
+    {
+      "enunciado": "Las armas largas específicas para desempeñar las funciones de guardería, ¿en qué categoría se encuentran clasificadas?",
+      "opciones": [
+        "En la 1ª categoría",
+        "En la categoría 2ª.1",
+        "En la categoría 2ª.2"
+      ],
+      "imagen": "img/2.27.jpg",
+      "respuesta": 2
+    },
+    {
+      "enunciado": "¿A qué categoría pertenecen las armas largas de fuego, del calibre .22 americano, de percusión anular y de repetición para tiro deportivo?",
+      "opciones": [
+        "A la 1ª categoría",
+        "A la 2ª categoría",
+        "A la 3ª categoría"
+      ],
+      "imagen": "img/2.20.jpg",
+      "respuesta": 3
+    },
+    {
+      "enunciado": "¿En qué categoría están clasificadas las armas largas rayadas para caza mayor?",
+      "opciones": [
+        "Categoría 3ª.3",
+        "Categoría 5ª.2",
+        "Categoría 2ª"
+      ],
+      "imagen": "img/2.15.jpg",
+      "respuesta": 3
+    },
+    {
+      "enunciado": "¿En qué categoría están clasificadas las armas inutilizadas?",
+      "opciones": [
+        "Categoría 3ª.3",
+        "Categoría 5ª.2",
+        "Categoría 9ª"
+      ],
+      "imagen": "img/2.28.jpg",
+      "respuesta": 3
+    },
+    {
+      "enunciado": "¿En qué categoría están clasificadas las armas de alarma?",
+      "opciones": [
+        "Categoría 3ª.3",
+        "Categoría 5ª.2",
+        "Categoría 7ª.6"
+      ],
+      "imagen": "img/2.29.jpg",
+      "respuesta": 3
+    },
+    {
+      "enunciado": "Un rifle que puede realizar disparos sucesivos al accionar repetidamente el disparador se denomina:",
+      "opciones": [
+        "Automático",
+        "Semiautomático",
+        "De repetición"
+      ],
+      "imagen": "img/2.30.jpg",
+      "respuesta": 2
+    },
+    {
+      "enunciado": "Un rifle semiautomático cuyo cargador admite doce cartuchos, ¿es arma prohibida a particulares?",
+      "opciones": [
+        "No",
+        "Sí, pues su capacidad de carga supera los once cartuchos",
+        "Sí, siempre que se utilice para cazar"
+      ],
+      "imagen": "img/2.31.jpg",
+      "respuesta": 2
+    },
+    {
+      "enunciado": "Una pistola semiautomática cuyo cargador admite veinticinco cartuchos, ¿es arma prohibida a particulares?",
+      "opciones": [
+        "No",
+        "Sí, pues su capacidad de carga supera los veintiún cartuchos",
+        "Sí, siempre que se utilice para cazar"
+      ],
+      "imagen": "img/2.32.jpg",
+      "respuesta": 2
+    },
+    {
+      "enunciado": "Un arma de fuego automática que haya sido transformada en semiautomática, ¿es arma prohibida a particulares?",
+      "opciones": [
+        "Sí",
+        "No",
+        "Dependerá del uso de la misma"
+      ],
+      "imagen": "img/2.33.jpg",
+      "respuesta": 1
+    },
+    {
+      "enunciado": "¿Cuál de las siguientes afirmaciones es cierta?",
+      "opciones": [
+        "Una escopeta calibre 20 mm pertenece a la categoría 3ª.2",
+        "Una escopeta calibre 20 mm es un arma prohibida",
+        "Una escopeta calibre 20 mm es un arma de guerra"
+      ],
+      "imagen": "img/2.34.jpg",
+      "respuesta": 3
+    },
+    {
+      "enunciado": "Sobre las armas de guerra, ¿qué está prohibido a los particulares?",
+      "opciones": [
+        "Su adquisición, tenencia y uso",
+        "No les están prohibidas",
+        "Las dos respuestas son falsas"
+      ],
+      "respuesta": 1
+    },
+    {
+      "enunciado": "Las armas de fuego automáticas, son siempre:",
+      "opciones": [
+        "Armas de guerra",
+        "Armas de la 1ª categoría",
+        "Ambas respuestas son falsas"
+      ],
+      "imagen": "img/2.35.jpg",
+      "respuesta": 1
+    },
+    {
+      "enunciado": "¿Quién puede legalizar las armas de guerra para un particular?",
+      "opciones": [
+        "No puede legalizarse",
+        "Ministro de Defensa",
+        "Ministro del Interior"
+      ],
+      "imagen": "img/2.36.jpg",
+      "respuesta": 1
+    },
+    {
+      "enunciado": "Los calibres .308 Win (7,62 × 51 mm) y 7,62 × 39 mm, ¿qué condiciones han de cumplirse para utilizarlos en caza mayor?",
+      "opciones": [
+        "No se pueden utilizar por ser calibre de guerra",
+        "Se podrán utilizar con bala expansiva y rifle de repetición",
+        "Se podrán utilizar con autorización especial del Ministerio de Defensa"
+      ],
+      "imagen": "img/2.37.jpg",
+      "respuesta": 2
+    },
+    {
+      "enunciado": "¿Cuáles de las siguientes armas están prohibidas?",
+      "opciones": [
+        "Los silenciadores adaptables a armas de fuego",
+        "Los puñales",
+        "Las respuestas anteriores (A y B) son armas prohibidas"
+      ],
+      "imagen": "img/2.38.jpg",
+      "respuesta": 3
+    },
+    {
+      "enunciado": "¿Cuáles se consideran armas prohibidas?",
+      "opciones": [
+        "Las armas de fuego que sean resultado de modificar sustancialmente las características de fabricación u origen de otras armas, sin la reglamentaria autorización de modelo o prototipo",
+        "Armas con culata plegable para facilitar los movimientos del cazador en terrenos abruptos",
+        "Las respuestas anteriores (A y B) son armas prohibidas"
+      ],
+      "imagen": "img/2.33.jpg",
+      "respuesta": 1
+    },
+    {
+      "enunciado": "Las armas de fuego que sean resultado de modificar sustancialmente las características de fabricación u origen de otras armas, sin la reglamentaria autorización de modelo o prototipo, ¿qué clase de armas son?",
+      "opciones": [
+        "Reglamentadas",
+        "Prohibidas a particulares",
+        "Prohibidas"
+      ],
+      "imagen": "img/2.38.jpg",
+      "respuesta": 3
+    },
+    {
+      "enunciado": "¿Cuáles de las siguientes armas están prohibidas?",
+      "opciones": [
+        "Armas de fuego largas con cañones recortados",
+        "Cuchillos de hoja superior a 11 cm",
+        "Cerbatanas"
+      ],
+      "imagen": "img/2.39.jpg",
+      "respuesta": 1
+    },
+    {
+      "enunciado": "Las armas de fuego, reales o simuladas, combinadas con armas blancas, son:",
+      "opciones": [
+        "Armas prohibidas",
+        "Armas reglamentadas",
+        "Armas prohibidas a particulares"
+      ],
+      "imagen": "img/2.40.jpg",
+      "respuesta": 1
+    },
+    {
+      "enunciado": "Un arma de fuego simulada bajo apariencia de cualquier otro objeto, es:",
+      "opciones": [
+        "Un arma prohibida",
+        "Un arma prohibida a particulares",
+        "Un arma reglamentada"
+      ],
+      "imagen": "img/2.41.jpg",
+      "respuesta": 1
+    },
+    {
+      "enunciado": "De las armas blancas que se detallan, ¿cuáles están prohibidas?",
+      "opciones": [
+        "Los puñales",
+        "Los machetes del Ejército para desollar la caza",
+        "Las dos anteriores"
+      ],
+      "imagen": "img/2.42.jpg",
+      "respuesta": 1
+    },
+    {
+      "enunciado": "¿Se pueden utilizar miras telescópicas en las armas de la categoría 2ª.2?",
+      "opciones": [
+        "Sí",
+        "No",
+        "Está prohibido"
+      ],
+      "imagen": "img/2.43.jpg",
+      "respuesta": 1
+    },
+    {
+      "enunciado": "¿Se pueden utilizar miras telescópicas en las armas de la categoría 3ª.2?",
+      "opciones": [
+        "Sí",
+        "No",
+        "Está prohibido"
+      ],
+      "imagen": "img/2.43.jpg",
+      "respuesta": 1
+    },
+    {
+      "enunciado": "¿Se pueden utilizar miras telescópicas en las armas de la categoría 3ª.2?",
+      "opciones": [
+        "Sí",
+        "No",
+        "Está prohibido"
+      ],
+      "imagen": "img/2.43.jpg",
+      "respuesta": 1
+    },
+    {
+      "enunciado": "Un arma larga que contenga un dispositivo especial, en su culata, para una pistola legalizada, es",
+      "opciones": [
+        "Un arma prohibida",
+        "Un arma combinada",
+        "Un arma reglamentada"
+      ],
+      "imagen": "img/2.44.jpg",
+      "respuesta": 1
+    },
+    {
+      "enunciado": "De las armas blancas que se detallan, cuáles están prohibidas",
+      "opciones": [
+        "Los puñales",
+        "Navajas de hoja inferior a 11 centímetros",
+        "Espadas"
+      ],
+      "imagen": "img/2.42.jpg",
+      "respuesta": 1
+    },
+    {
+      "enunciado": "Un cuchillo de monte, de dos filos, puntiagudo y con una hoja de 20 centímetros, sería:",
+      "opciones": [
+        "Un arma de la 4ª categoría",
+        "Un arma blanca permitida",
+        "Un arma prohibida"
+      ],
+      "imagen": "img/2.45.jpg",
+      "respuesta": 2
+    },
+    {
+      "enunciado": "De las que se relacionan, ¿cuáles son armas prohibidas? ",
+      "opciones": [
+        "Navajas automáticas",
+        " Navajas de menos de 11 centímetros de longitud de hoja.",
+        "Cuchillos de monte de doble filo con hoja de 13 centímetros de longitud. "
+      ],
+      "imagen": "img/2.46.jpg",
+      "respuesta": 1
+    },
+    {
+      "enunciado": "Se puede poseer un rompecabezas, como instrumento auxiliar en caza mayor: ",
+      "opciones": [
+        "Sí",
+        "Sí. Con autorización",
+        "No, ya que se trata de arma prohibida."
+      ],
+      "imagen": "img/2.47.jpg",
+      "respuesta": 3
+    },
+    {
+      "enunciado": "¿Cuántos silenciadores se pueden tener con un arma larga rayada para caza mayor? ",
+      "opciones": [
+        "Uno para cada arma que se posea.",
+        "Uno solo, independientemente del número de armas que se posea",
+        "Ninguno, está prohibido."
+      ],
+      "imagen": "img/2.48.jpg",
+      "respuesta": 3
+    },
+    {
+      "enunciado": "Puede una persona con licencia de armas, tener y utilizar armas de fuego largas de cañones recortados.",
+      "opciones": [
+        "No; sólo está permitido a funcionarios especialmente habilitados.",
+        "Sí. Si dispone de autorización. ",
+        "Sí. Si la utiliza solamente para cazar. "
+      ],
+      "imagen": "img/2.49.jpg",
+      "respuesta": 1
+    },
+    {
+      "enunciado": "Un arma simulada, combinada con un arma blanca, ¿es un arma prohibida?",
+      "opciones": [
+        "No.",
+        "Sí",
+        "Depende del tipo de arma blanca de que se trate. "
+      ],
+      
+      "respuesta": 2
+    },
+    {
+      "enunciado": "Una escopeta de caza legalmente adquirida en Francia, que posea en su culata un mecanismo para alojar otras armas, ¿puede ser legalizada en nuestro país?",
+      "opciones": [
+        "Si, con autorización francesa",
+        "No, por ser un arma prohibida",
+        "Si, en todos los casos "
+      ],
+      
+      "respuesta": 2
+    },
+    {
+      "enunciado": "Una escopeta de caza legalmente adquirida en Francia, que posea en su culata un mecanismo para alojar una navaja para desollar ¿puede ser legalizada en nuestro país?",
+      "opciones": [
+        "No, por ser un arma prohibida",
+        "Si, con autorización francesa ",
+        "Si, en todos los casos"
+      ],
+     
+      "respuesta": 1
+    },
+    {
+      "enunciado": "De los tipos de cartuchería que se citan, ¿cuál está prohibida a particulares? ",
+      "opciones": [
+        "La munición metálica blindada. ",
+        "La cartuchería con bala expansiva.",
+        "La cartuchería con balas perforantes, explosivas o incendiarias."
+      ],
+      "imagen": "img/2.50.jpg",
+      "respuesta": 3
+    },
+    {
+      "enunciado": "De los tipos de cartuchería que se citan, ¿cuál está prohibida a particulares? ",
+      "opciones": [
+        "La munición metálica blindada. ",
+        "La cartuchería con bala expansiva",
+        "Las municiones con proyectiles dum-dum"
+      ],
+      "imagen": "img/2.51.jpg",
+      "respuesta": 3
+    }
+  ]
+}

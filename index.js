@@ -1,6 +1,6 @@
-/**
- * @format
- */
+// index.js  ← en la raíz del proyecto
+import './src/polyfills';
+import 'react-native-gesture-handler';
 
 import { AppRegistry } from 'react-native';
 import App from './App';
