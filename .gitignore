@@ -73,3 +73,20 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+# Builds / outputs
+android/app/release/
+tmp_apks/
+app-release*.*
+*.apks
+*.apk
+*.aab
+
+# keystore / env
+keystore.properties
+*.keystore
+*.jks
+.env
+
+# metro / bundler
+.bundle
+tmp
