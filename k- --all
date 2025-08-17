@@ -3,3 +3,9 @@ Author: Abraham <ap94143@gmail.com>
 Date:   Sun Aug 17 12:10:39 2025 +0200
 
     Remove .env from repo and add to .gitignore
+
+[33mcommit 80321c9c9e4ee63062f613523e8aab9d417b1971[m
+Author: Abraham <ap94143@gmail.com>
+Date:   Tue Jul 29 08:41:37 2025 +0200
+
+    Push definitivo con toda la app y gitignore
