@@ -429,6 +429,7 @@
         "No les están prohibidas",
         "Las dos respuestas son falsas"
       ],
+      "imagen": "img/2.342.jpg",
       "respuesta": 1
     },
     {
@@ -638,7 +639,7 @@
         "Sí",
         "Depende del tipo de arma blanca de que se trate. "
       ],
-      
+      "imagen": "img/2.492.jpg",
       "respuesta": 2
     },
     {
@@ -648,7 +649,7 @@
         "No, por ser un arma prohibida",
         "Si, en todos los casos "
       ],
-      
+      "imagen": "img/2.493.jpg",
       "respuesta": 2
     },
     {
@@ -658,7 +659,7 @@
         "Si, con autorización francesa ",
         "Si, en todos los casos"
       ],
-     
+     "imagen": "img/2.493.jpg",
       "respuesta": 1
     },
     {

@@ -209,6 +209,7 @@
         "Diez días.",
         "Un día"
       ],
+      "imagen": "img/3.21.jpg",
       "respuesta": 2
     },
     {
@@ -348,7 +349,7 @@
         "Autorización escrita del titular del arma",
         "Autorización escrita del Delegado/a del Gobierno de la Comunidad"
       ],
-      
+      "imagen": "img/3.35.jpg",
       "respuesta": 2
     },
     {
@@ -448,7 +449,7 @@
         "Cuando sea de nueva adquisición",
         "En ningún caso"
       ],
-      
+      "imagen": "img/3.35.jpg",
       "respuesta": 3
     },
     {
@@ -518,7 +519,7 @@
         "Cuando se enajena a una armería.",
         "Cuando se regala a alguien, sin mediar precio."
       ],
-      
+      "imagen": "img/3.35.jpg",
       "respuesta": 1
     },
     {
@@ -578,7 +579,7 @@
         "Un mes",
         "Quince días como máximo"
       ],
-      
+      "imagen": "img/6.36.jpg",
       "respuesta": 3
     },
     {

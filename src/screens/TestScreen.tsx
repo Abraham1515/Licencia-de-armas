@@ -87,7 +87,8 @@ export default function TestScreen() {
         titulo,
         correct: isRight ? correct + 1 : correct,
         total,
-        mistakes: isRight ? mistakes : [...mistakes, current]
+        mistakes: isRight ? mistakes : [...mistakes, current],
+        preguntas: preguntas.slice()
       });
     } else {
       setIndex(next);

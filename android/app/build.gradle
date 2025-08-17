@@ -24,7 +24,7 @@ react {
 // Opciones de Proguard (si lo necesitas)
 def enableProguardInReleaseBuilds = false
 
-// Sabor de JSC si no estamos usando Hermes
+// Sabor de JSC si no estamos usando HermesA
 def jscFlavor = 'io.github.react-native-community:jsc-android:2026004.+'
 
 android {
@@ -37,8 +37,8 @@ android {
         applicationId "com.abrahamperez.licencia.premium"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 12
-        versionName "12.0"
+        versionCode 13
+        versionName "13.0"
     }
 
     signingConfigs {

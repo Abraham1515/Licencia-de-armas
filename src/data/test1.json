@@ -79,7 +79,7 @@
         "Estriadas",
         "Estriadas o lisas, dependiendo del fabricante."
       ],
-      
+      "imagen": "img/1.172.jpg",
       "respuesta": 2
     },
     {
@@ -199,6 +199,7 @@
         "Reducción de la boca de fuego.",
         "Carecen de choke."
       ],
+      "imagen": "img/1.172.jpg",
       "respuesta": 3
     },
     {
@@ -228,6 +229,7 @@
         "Percusión adelantada.",
         "Sistema “Flobert”."
       ],
+      "imagen": "img/1.172.jpg",
       "respuesta": 1
     },
     {
@@ -257,6 +259,7 @@
         "Que está totalmente ensamblada.",
         "Ser portada por el tirador."
       ],
+      "imagen": "img/1.172.jpg",
       "respuesta": 1
     },
     {
@@ -266,6 +269,7 @@
         "Ya ha efectuado el disparo.",
         "No tiene munición en el mecanismo de alimentación."
       ],
+      "imagen": "img/1.173.jpg",
       "respuesta": 1
     },
     {
@@ -275,6 +279,7 @@
         "Está ensamblada y pavonada.",
         "Está ensamblada pero no pavonada."
       ],
+      "imagen": "img/1.172.jpg",
       "respuesta": 1
     },
     {
@@ -284,6 +289,7 @@
         "En la recámara.",
         "En la canana."
       ],
+      "imagen": "img/1.174.jpg",
       "respuesta": 2
     },
     {
@@ -313,6 +319,7 @@
         "Cargar es introducir cartuchos en el deposito, alimentarla es montarla para disparar.",
         "No existe diferencia. -Como se hacen disparar las armas amparadas con Licencia de Armas “E” y “D”."
       ],
+      "imagen": "img/1.172.jpg",
       "respuesta": 1
     },
     {
@@ -332,6 +339,7 @@
         "Con un buen empuñamiento.",
         "Con una buena sujeción del arma"
       ],
+      "imagen": "img/1.40.jpg",
       "respuesta": 1
     },
     {
@@ -501,6 +509,7 @@
         "Si.",
         "Las escopetas semiautomáticas no tienen seguro automático."
       ],
+      "imagen": "img/1.40.jpg",
       "respuesta": 2
     },
     {
@@ -540,6 +549,7 @@
         "No es necesario limpiar el arma.",
         "Basta con pasarle un trapo para secarla."
       ],
+      "imagen": "img/1.175.jpg",
       "respuesta": 1
     },
     {
@@ -569,6 +579,7 @@
         "Dispuestas para disparar si nos encontramos en época hábil de caza.",
         "Descargadas."
       ],
+      "imagen": "img/1.176.jpg",
       "respuesta": 3
     },
     {
@@ -578,6 +589,7 @@
         "Los rifles separados de las escopetas.",
         "Descargadas y sin alimentar."
       ],
+      "imagen": "img/1.41.jpg",
       "respuesta": 3
     },
     {
@@ -607,6 +619,7 @@
         "El lugar de reunión de la familia, pues en el caso de un accidente, siempre se obtendrá ayuda inmediata de algún familiar.",
         "En la puerta de la calle, pues en el caso de producirse un disparo fortuito, saldría el proyectil al aire."
       ],
+      "imagen": "img/1.177.jpg",
       "respuesta": 1
     },
     {
@@ -616,6 +629,7 @@
         "Manipularla.",
         "Guardarla en su funda."
       ],
+      "imagen": "img/1.178.jpg",
       "respuesta": 2
     },
     {
@@ -625,6 +639,7 @@
         "Ser sancionado por la Autoridad municipal.",
         "Que el arma se deteriore."
       ],
+      "imagen": "img/1.40.jpg",
       "respuesta": 1
     },
     {
@@ -634,6 +649,7 @@
         "Que se encuentre bien engrasada.",
         "Comprobar que no está cargada apretando el gatillo."
       ],
+      "imagen": "img/1.179.jpg",
       "respuesta": 1
     },
     {
@@ -643,6 +659,7 @@
         "Con destreza.",
         "Descargando el arma."
       ],
+      "imagen": "img/4.2.jpg",
       "respuesta": 3
     },
     {
@@ -652,6 +669,7 @@
         "Hacia la horizontal",
         "Hacia el suelo. "
       ],
+      "imagen": "img/1.181.jpg",
       "respuesta": 3
     },
     {
@@ -661,6 +679,7 @@
         "Que el proyectil seguirá una trayectoria horizontal",
         "Que la carga del cartucho es la adecuada para alcanzar la pieza."
       ],
+      "imagen": "img/2.43.jpg",
       "respuesta": 1
     }
   ]

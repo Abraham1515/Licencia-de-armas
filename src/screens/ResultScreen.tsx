@@ -25,18 +25,43 @@ export default function ResultScreen() {
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []); // sólo al montar
 
-  // Si hay errores, reempezar sólo con esas preguntas
-  const redoErrors = () => {
-    if (mistakes.length === 0) return;
-    navigation.replace('Test', {
-      // Le pasamos un flag para que TestScreen use estas preguntas
-      overridePreguntas: mistakes,
-      overrideTitulo: `${titulo} (Errores)`
-    });
-  };
+// Si hay errores, reempezar sólo con esas preguntas
+const redoErrors = () => {
+  if (!mistakes || mistakes.length === 0) return;
+  navigation.replace('Test', {
+    overridePreguntas: mistakes.slice(), // copia por seguridad
+    overrideTitulo: `${titulo} (Errores)`
+  });
+};
 
-  const restart = () => navigation.popToTop();
-  const goBackTests = () => navigation.popToTop();
+const restart = () => {
+  // Prioridad 1: si TestScreen pasó las preguntas (overridePreguntas / preguntas)
+  const preguntasOriginales = route.params?.preguntas ?? route.params?.overridePreguntas;
+  const testIdOriginal = route.params?.testId;
+
+  if (preguntasOriginales && Array.isArray(preguntasOriginales) && preguntasOriginales.length > 0) {
+    navigation.replace('Test', {
+      overridePreguntas: preguntasOriginales.slice(),
+      overrideTitulo: route.params?.titulo ?? titulo
+    });
+    return;
+  }
+
+  // Si veníamos con testId (test normal), reiniciamos con el mismo testId
+  if (testIdOriginal) {
+    navigation.replace('Test', {
+      testId: testIdOriginal
+    });
+    return;
+  }
+
+  // Fallback: volver al listado
+  navigation.popToTop();
+};
+
+const goBackTests = () => {
+  navigation.popToTop();
+};
 
   // Colores para botones
   const accentGreen      = '#2d6a4f';

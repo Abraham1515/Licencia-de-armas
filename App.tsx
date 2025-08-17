@@ -36,6 +36,7 @@ import ResultScreen    from './src/screens/ResultScreen';
 import ScoresScreen    from './src/screens/ScoresScreen';
 import SettingsScreen  from './src/screens/SettingsScreen';
 import ProfileScreen   from './src/screens/ProfileScreen';
+import ExamScreen from './src/screens/ExamScreen';
 
 const Drawer = createDrawerNavigator();
 const Stack  = createNativeStackNavigator();
@@ -148,6 +149,7 @@ function withHamburger(ScreenComponent: React.ComponentType<any>, name: string, 
 }
 
 const TestsStack    = withHamburger(TestsListScreen, 'TestsList', 'Preparación Licencia D y E');
+const ExamStack     = withHamburger(ExamScreen,      'ExamRoot', 'Examen');
 const ScoresStack   = withHamburger(ScoresScreen,     'ScoresList', 'Historial de Puntuaciones');
 const ProfileStack  = withHamburger(ProfileScreen,    'ProfileRoot', 'Perfil');
 const SettingsStack = withHamburger(SettingsScreen,   'SettingsRoot', 'Configuración');
@@ -175,6 +177,11 @@ function Root() {
           name="Tests"
           component={TestsStack}
           options={{ drawerLabel: 'Preparación Armas D y E' }}
+        />
+        <Drawer.Screen
+          name="Exam"
+          component={ExamStack}
+          options={{ drawerLabel: 'Examen'}}
         />
         <Drawer.Screen
           name="Scores"
